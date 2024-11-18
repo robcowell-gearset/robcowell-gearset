@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Salesforce DevOps
 - 📫 How to reach me: ... Twitter, @robsalesforce
 - 😄 Pronouns: ... he/him/his
+
+![robcowell's Stats](https://github-readme-stats.vercel.app/api?username=robcowell&theme=monokai&show_icons=true&hide_border=true&count_private=true)
